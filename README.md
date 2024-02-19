@@ -31,6 +31,7 @@
 - 🎞 Computer Graphics
 - 📡 Network
 - 💻 Programming
+- 🎸Playing Electric Guitar
 
 ## 💬Skillset
 <p align="left">
