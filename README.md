@@ -1,6 +1,8 @@
 <h1 align="center">Taeil Nam</h1>
 <h3 align="center">Game programmer from network engineer.</h3>
 
+![Leetcode Stats](https://leetcard.jacoblin.cool/Taeil-Nam)
+
 ## 🏆Projects
 - [IRC](https://github.com/Taeil-Nam/ft_irc) - In Progress
 - [RayTracing](https://github.com/Taeil-Nam/RayTracing)
