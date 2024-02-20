@@ -2,7 +2,7 @@
 <h3 align="center">Game programmer from network engineer.</h3>
 
 <p align="center">
-  <img src="https://leetcard.jacoblin.cool/Taeil-Nam" alt="Leetcode Stats">
+  <img src="https://leetcard.jacoblin.cool/Taeil-Nam?ext=heatmap&theme=dark" alt="Leetcode Stats">
 </p>
 
 ## 🏆Projects
