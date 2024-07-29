@@ -6,7 +6,7 @@
 </p>
 
 ## 🏆Projects
-- [IRC](https://github.com/Taeil-Nam/ft_irc)
+- [IRC Server](https://github.com/Taeil-Nam/IRC-Server)
 - [RayTracing](https://github.com/Taeil-Nam/RayTracing)
 - [WhineShell](https://github.com/Taeil-Nam/WhineShell)
 
