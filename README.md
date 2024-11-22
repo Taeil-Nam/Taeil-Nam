@@ -1,5 +1,5 @@
 <h1 align="center">Taeil Nam</h1>
-<h3 align="center">Game Programmer</h3>
+<h3 align="center">Programmer</h3>
 
 <p align="center">
   <img src="https://leetcard.jacoblin.cool/Taeil-Nam?ext=heatmap" alt="Leetcode Stats">
@@ -31,10 +31,10 @@
 - 정보처리산업기사 (2018)
 
 ## 💡Interests
-- 🎮 Games
-- 🎞 Computer Graphics
 - 📡 Network
+- 🎞 Computer Graphics
 - 💻 Programming
+- 🎮 Games
 - 🎸Playing Electric Guitar
 
 ## 💬Skillset
