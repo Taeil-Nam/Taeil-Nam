@@ -1,22 +1,25 @@
 <h1 align="center">Taeil Nam</h1>
-<h3 align="center">Programmer</h3>
+<h3 align="center">Software engineer</h3>
 
+<!--
 <p align="center">
   <img src="https://leetcard.jacoblin.cool/Taeil-Nam?ext=heatmap" alt="Leetcode Stats">
 </p>
+-->
 
 ## 🏆Projects
 - [IRC Server](https://github.com/Taeil-Nam/IRC-Server)
-- [RayTracing](https://github.com/Taeil-Nam/RayTracing)
 - [WhineShell](https://github.com/Taeil-Nam/WhineShell)
+- [RayTracing](https://github.com/Taeil-Nam/RayTracing)
 
 ## 📚Education
-- 42Seoul, Computer Science (2022.11.07 ~)
 - Korea National Open University, English Language and Literature (2020.09 ~ 2022.08)
 - Bucheon University, Information and Communication (2015.03 ~ 2019.02)
 
 ## 📌Work Experience & Activities
 - 42Seoul, Programmer (2022 ~)
+  > - Completed computer science education.
+  > - Made many UNIX based software.
 - Globaltelecom, Network Engineer (2019 ~ 2022)
   > - Design and build a new network infrastructure of customers.
   > - Support POC(Proof Of Concept) and BMT(Benchmarking Test) for Networks solutions and equipment.
@@ -35,7 +38,7 @@
 - 🎞 Computer Graphics
 - 💻 Programming
 - 🎮 Games
-- 🎸Playing Electric Guitar
+- 🎸 Playing Electric Guitar
 
 ## 💬Skillset
 <p align="left">
