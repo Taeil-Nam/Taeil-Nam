@@ -9,8 +9,8 @@
 
 ## 🏆Projects
 - [IRC Server](https://github.com/Taeil-Nam/IRC-Server)
-- [WhineShell](https://github.com/Taeil-Nam/WhineShell)
 - [RayTracing](https://github.com/Taeil-Nam/RayTracing)
+- [WhineShell](https://github.com/Taeil-Nam/WhineShell)
 
 ## 📚Education
 - Korea National Open University, English Language and Literature (2020.09 ~ 2022.08)
