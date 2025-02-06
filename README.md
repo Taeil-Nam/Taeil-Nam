@@ -17,7 +17,9 @@
 - Bucheon University, Information and Communication (2015.03 ~ 2019.02)
 
 ## 📌Work Experience & Activities
-- Ecole42(42Seoul), Learner (2022 ~)
+- Ecole42, Member (2024 ~)
+  > - In progress.
+- Ecole42, Learner (2022 ~ 2024)
   > - Completed computer science education.
   > - Made many UNIX based software.
 - Globaltelecom, Network Engineer (2019 ~ 2022)
