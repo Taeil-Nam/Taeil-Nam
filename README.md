@@ -13,8 +13,9 @@
 - [WhineShell](https://github.com/Taeil-Nam/WhineShell)
 
 ## 📚Education
-- Korea National Open University, English Language and Literature (2020.09 ~ 2022.08)
-- Bucheon University, Information and Communication (2015.03 ~ 2019.02)
+- Korea National Open University, Computer Science (2025 ~ )
+- Korea National Open University, English Language and Literature (2020 ~ 2022)
+- Bucheon University, Information and Communication (2015 ~ 2019)
 
 ## 📌Work Experience & Activities
 - Ecole42, Member (2024 ~)
