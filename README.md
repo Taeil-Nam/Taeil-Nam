@@ -18,7 +18,7 @@
 - Bucheon University, Associate's degree in Information and Communication Technology (2015 ~ 2019)
 
 ## 📌Work Experience & Activities
-- Ecole42, Member (2024 ~)
+- Ecole42, Member (2025 ~)
   > - In progress.
 - Ecole42, Learner (2022 ~ 2024)
   > - Completed computer science education.
