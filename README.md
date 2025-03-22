@@ -1,8 +1,6 @@
 <h1 align="center">Taeil Nam</h1>
 <h3 align="center">Software engineer</h3>
 
-![Leetcode Stats](https://leetcard.jacoblin.cool/lapor?ext=contest)
-
 <p align="center">
   <img src="https://leetcard.jacoblin.cool/Taeil-Nam?ext=contest" alt="Leetcode Stats">
 </p>
