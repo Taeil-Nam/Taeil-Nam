@@ -1,11 +1,9 @@
 <h1 align="center">Taeil Nam</h1>
 <h3 align="center">Software engineer</h3>
 
-<!--
 <p align="center">
   <img src="https://leetcard.jacoblin.cool/Taeil-Nam?ext=heatmap" alt="Leetcode Stats">
 </p>
--->
 
 ## 🏆Projects
 - [IRC Server](https://github.com/Taeil-Nam/IRC-Server)
