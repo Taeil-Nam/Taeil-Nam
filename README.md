@@ -16,15 +16,10 @@
 - [RayTracing](https://github.com/Taeil-Nam/RayTracing)
 - [WhineShell](https://github.com/Taeil-Nam/WhineShell)
 
-## 📚Education
-- Korea National Open University, Bachelor's degree in Computer Science (2025 ~ )
-- Korea National Open University, Bachelor's degree in English Language and Literature (2020 ~ 2022)
-- Bucheon University, Associate's degree in Information and Communication Technology (2015 ~ 2019)
-
 ## 📌Work Experience & Activities
-- Ecole42, Member (2025 ~)
-  > - In progress.
-- Ecole42, Learner (2022 ~ 2024)
+- Ecole42(Seoul), Alumni (2025)
+- Ecole42(Seoul), Member (2025)
+- Ecole42(Seoul), Learner (2022 ~ 2024)
   > - Completed computer science education.
   > - Made many UNIX based software.
 - Globaltelecom, Network Engineer (2019 ~ 2022)
@@ -35,17 +30,23 @@
   > Customers : Kakao, KakaoPay, Kakao Enterprise, Nexon Korea.  
   > Vendors : Cisco, Arista Networks.
 
+## 📚Education
+- Korea National Open University, Bachelor's degree in Computer Science (2025 ~ )
+- Korea National Open University, Bachelor's degree in English Language and Literature (2020 ~ 2022)
+- Bucheon University, Associate's degree in Information and Communication Technology (2015 ~ 2019)
+
 ## 📝Certification
-- CCNP (2019)
-- CCNA (2018)
-- 정보처리산업기사 (2018)
+- CCNP (Cisco)
+- CCNA (Cisco)
+- 정보처리산업기사
 
 ## 💡Interests
-- 📡 Network
-- 🎞 Computer Graphics
 - 💻 Programming
-- 🎮 Games
+- 📡 Network
+- 🎮 Game
+- 👓 VR
 - 🎸 Playing Electric Guitar
+- 🎤 Rap
 
 ## 💬Skillset
 <p align="left">
