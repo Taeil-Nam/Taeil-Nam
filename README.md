@@ -17,18 +17,15 @@
 - [WhineShell](https://github.com/Taeil-Nam/WhineShell)
 
 ## 📌Work Experiences & Activities
-- Ecole42(Seoul), Alumni (2025)
-- Ecole42(Seoul), Member (2025)
-- Ecole42(Seoul), Learner (2022 ~ 2024)
-  > - Completed computer science education.
-  > - Made many UNIX based software.
+- Monitorapp, Software Engineer (2025 ~ )
+  >  - Developing and maintaining secure OS architecture based on the Linux kernel.
+- Ecole42(Seoul), Software Engineering Trainee (2022 ~ 2024)
+  >  - Completed an intensive computer science training program focused on low-level and system programming.
+  >  - Developed multiple software projects for macOS and Linux environments using C, C++.
 - Globaltelecom, Network Engineer (2019 ~ 2022)
-  > - Design and build a new network infrastructure of customers.
-  > - Support POC(Proof Of Concept) and BMT(Benchmarking Test) for Networks solutions and equipment.
-  > - On-site technical support for Networks solutions and equipment.
-  >  
-  > Customers : Kakao, KakaoPay, Kakao Enterprise, Nexon Korea.  
-  > Vendors : Cisco, Arista Networks.
+  >  - Design and build a new network infrastructure of customers.
+  >  - Support POC(Proof Of Concept) and BMT(Benchmarking Test) for Networks solutions and equipment.
+  >  - On-site technical support for Networks solutions and equipment.
 
 ## 📚Educations
 - Korea National Open University, Bachelor's degree in Computer Science (2025 ~ )
