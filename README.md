@@ -18,14 +18,15 @@
 
 ## 📌Work Experiences & Activities
 - Monitorapp, Software Engineer (2025 ~ )
-  >  - Developing and maintaining secure OS architecture based on the Linux kernel.
+  >  - Develop and maintain a Linux kernel-based operating system for security appliances.
+  >  - Develop and maintain SSL/TLS proxy appliances.
 - Ecole42(Seoul), Software Engineering Trainee (2022 ~ 2024)
   >  - Completed an intensive computer science training program focused on low-level and system programming.
   >  - Developed multiple software projects for macOS and Linux environments using C, C++.
 - Globaltelecom, Network Engineer (2019 ~ 2022)
-  >  - Design and build a new network infrastructure of customers.
-  >  - Support POC(Proof Of Concept) and BMT(Benchmarking Test) for Networks solutions and equipment.
-  >  - On-site technical support for Networks solutions and equipment.
+  >  - Designed and built a new network infrastructure. (Switch, Router, Load Balancer, Firewall)
+  >  - Supported POC (Proof of Concept) and BMT (Benchmarking Test) for network solutions and equipment.
+  >  - Provided on-site technical support for network solutions and equipment.
 
 ## 📚Educations
 - Korea National Open University, Bachelor's degree in Computer Science (2025 ~ )
